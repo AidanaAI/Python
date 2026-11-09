@@ -1,0 +1,5 @@
+Oct 19 08:15:02 srv01 sshd[2211]: Failed password for invalid user admin from 203.0.113.45 port 52144 ssh2
+Oct 19 08:15:04 srv01 sshd[2211]: Failed password for root from 203.0.113.45 port 52150 ssh2
+Oct 19 08:16:40 srv01 sshd[2290]: Accepted publickey for aru from 198.51.100.7 port 40112 ssh2
+Oct 19 08:17:01 srv01 CRON[2301]: pam_unix(cron:session): session opened for user root
+### corrupted line ###

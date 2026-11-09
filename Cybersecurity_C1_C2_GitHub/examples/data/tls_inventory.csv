@@ -1,0 +1,5 @@
+hostname,notAfter
+expired.example,Oct 19 12:00:00 2026 GMT
+critical.example,2026-11-10T23:59:59Z
+warning.example,2026-11-25T23:59:59Z
+ok.example,2026-12-30T00:00:00Z

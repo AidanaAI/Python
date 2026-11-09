@@ -1,0 +1,20 @@
+Threat intelligence report (synthetic). The 12 VALID stand-alone indicators are:
+IPv4 203[.]0[.]113[.]45
+IPv4 198.51.100.7
+Domain malicious[.]example
+Domain c2.example.org
+URL hxxps://bad[.]example/collect
+URL hxxp://evil[.]example/payload
+Email admin[@]bad.example
+Email alerts@example.org
+MD5 d41d8cd98f00b204e9800998ecf8427e
+SHA1 da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Domain compromised.net
+
+5 DECOYS (must not be detected):
+Invalid IPv4 999.999.999.999
+Invalid partial IP 1.1.1
+Invalid hash extended 0d41d8cd98f00b204e9800998ecf8427e0
+Invalid domain a..b
+Invalid email user@localhost
